@@ -2,7 +2,7 @@
 
 **A real time assistive technology prototype to help blind individuals read text and detect objects using smart glasses powered by Raspberry Pi.**
 
-![Project Demo](prototype.jpg)
+![Project Demo](prototype.jpeg)
 
 
 
